@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<operators name="template" version="5.0" docbundle="com/rapidminer/resources/i18n/OperatorsDocTemplate">
+   <group key="">
+      <group key="data_transformation">
+         <operator>
+            <key>hh_test_operator</key>
+            <class>com.rapidminer.testOperator</class>
+            <replaces>TextInformationExtraction</replaces>
+         </operator>
+         <operator>
+            <key>hh_test_operator_with_parameter</key>
+            <class>com.rapidminer.OperatorWithParameter</class>
+            <replaces>TextInformationExtraction2</replaces>
+         </operator>
+      </group>
+   </group>
+</operators>
