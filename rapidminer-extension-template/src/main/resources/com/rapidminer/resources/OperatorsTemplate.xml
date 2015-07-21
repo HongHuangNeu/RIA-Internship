@@ -12,6 +12,11 @@
             <class>com.rapidminer.OperatorWithParameter</class>
             <replaces>TextInformationExtraction2</replaces>
          </operator>
+         <operator>
+            <key>classify_test</key>
+            <class>com.rapidminer.classifierLearnerClass</class>
+            <replaces>TextInformationExtraction3</replaces>
+         </operator>
       </group>
    </group>
 </operators>

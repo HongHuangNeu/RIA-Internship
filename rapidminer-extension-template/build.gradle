@@ -40,7 +40,7 @@ extensionConfig {
 	 * The relative path to RapidMiner Studio. It will be used by the
 	 * 'installExtension' task to copy the extension Jar to $rapidminerHome/lib/plugins/ 
 	 */
-	//rapidminerHome = '../rapidminer-studio'
+	rapidminerHome = '../rapidminer-studio'
 
 	// define RapidMiner version and extension dependencies
 	dependencies {
